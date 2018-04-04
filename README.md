@@ -1,2 +1,3 @@
 # react-blog
-Blog with a react front-end and a flask back-end
+
+Simple blogging system with a React frontend
